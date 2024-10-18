@@ -1,12 +1,12 @@
 <servers>
 	<server>
 		<id>registry.hub.docker.com</id>
-		<username>pierrickleblevec</username>
+		<username>PierrickLEBLEVEC</username>
 		<password>Sesam&1991</password>
 	</server>
 	<server>
 		<id>registry-1.docker.io</id>
-		<username>pierrickleblevec</username>
+		<username>PierrickLEBLEVEC</username>
 		<password>Sesam&1991</password>
 	</server>
 </servers>
